@@ -1,3 +1,3 @@
 # cs11aProject
-This is for the class final project.
-Hope we do not fail. 
+Team 39: this is for the class final project.
+Hope we don't fail. 
